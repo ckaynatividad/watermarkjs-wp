@@ -1,1 +1,0 @@
-# watermarkjs-wp
